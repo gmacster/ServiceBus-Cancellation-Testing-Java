@@ -15,4 +15,4 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'service-bus-prefetch-testing'
+rootProject.name = 'service-bus-cancellation-testing'
